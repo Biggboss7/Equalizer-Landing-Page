@@ -57,6 +57,10 @@ li {
   font-weight: bold;
 }
 
+.hidden {
+  display:none;
+}
+
 /* Container */
 .wrapper {
   width: 100%;
